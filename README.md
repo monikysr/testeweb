@@ -2,10 +2,9 @@
 
 ## Equipe
 
-1. *Moniky*
-2. Renan
-3. Tiago
-4. Danyele
-5. Welison
-6. Marcelo
+1. Ana Carolina
+2. Joice
+3. Daniela
+4. Livia
+5. Vinicius
    
