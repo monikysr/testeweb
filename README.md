@@ -1,6 +1,6 @@
 # Projeto Web
 
-##Equipe
+## Equipe
 
 1. *Moniky*
 2. Renan
